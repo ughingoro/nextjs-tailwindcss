@@ -31,7 +31,7 @@ const Tweet = () => {
                 <GoKebabHorizontal />
               </div>
             </div>
-          <div>You are amazing if you take time to comment on a tweet or YouTube video or a blogpost that has helped you!</div>
+          <div>You are amazing if you take time to comment on a tweet or YouTube video or a blogpost that has helped you! OK</div>
           
           <div className='mt-2 flex justify-between'>
             
