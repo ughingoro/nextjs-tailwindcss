@@ -7,3 +7,19 @@
         @apply bg-gray-300;
     }
 }
+
+    .card {
+        @apply bg-white rounded-lg
+    }
+
+    .card img {
+        @apply w-full h-48 object-cover rounded-lg
+    }
+
+    .card div {
+        @apply p-6
+    }
+
+    .link {
+        @apply text-lg font-bold text-purple-600;
+    }
